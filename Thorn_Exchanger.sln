@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thorn_Exchanger", "Thorn_Exchanger.csproj", "{7C76A5EB-1420-4F84-B24C-2E2D3BBC40A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C76A5EB-1420-4F84-B24C-2E2D3BBC40A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C76A5EB-1420-4F84-B24C-2E2D3BBC40A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C76A5EB-1420-4F84-B24C-2E2D3BBC40A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C76A5EB-1420-4F84-B24C-2E2D3BBC40A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9328082-F31B-4A16-B0FB-25A33A4D6608}
+	EndGlobalSection
+EndGlobal
